@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eliseu Brito</h1>
-<h3 align="center">A FullStack Developer</h3>
+<h3 align="center">FullStack Developer</h3>
 
 <p align="left"> <a href="https://twitter.com/eliseucb" target="blank"><img src="https://img.shields.io/twitter/follow/eliseucb?logo=twitter&style=for-the-badge" alt="eliseucb" /></a> </p>
 
